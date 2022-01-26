@@ -1,0 +1,16 @@
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.exe
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.deps.json
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.runtimeconfig.json
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.runtimeconfig.dev.json
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.dll
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\ref\Metaverso.dll
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\bin\Debug\net5.0\Metaverso.pdb
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.csproj.AssemblyReference.cache
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.AssemblyInfoInputs.cache
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.AssemblyInfo.cs
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.csproj.CoreCompileInputs.cache
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.dll
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\ref\Metaverso.dll
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.pdb
+c:\Users\1daw3\Desktop\1DAW3\Entornos de desarrollo\examenPruebas\Examen2EVPruebasUnitarias\Metaverso\obj\Debug\net5.0\Metaverso.genruntimeconfig.cache
